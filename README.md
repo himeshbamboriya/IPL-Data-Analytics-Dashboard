@@ -51,7 +51,7 @@ Inspired by standard exploratory data analysis, this dashboard was built to answ
 ## 🖥️ Dashboard Interface
 
 <div align="center">
-  <img src=https://github.com/himeshbamboriya/IPL-Data-Analytics-Dashboard/blob/main/Excel_dashboard.png?raw=true alt="IPL Dashboard" width="800"/>
+  <img src="Excel_dashboard.png" alt="IPL Dashboard" width="800"/>
 </div>
 
 ### Interactive Features
